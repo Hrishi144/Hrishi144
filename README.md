@@ -1,7 +1,7 @@
 # 💫 About Me:
 🎓 I am currently pursuing a degree in Computer Science at St. Joseph's College of Engineering, Palai.<br>💻 I am gaining hands-on experience in computer technologies.<br>💡 I have a passion for programming and enjoy solving complex problems through code.<br>🎮 In my free time, I also love playing games.<br>
 
-![Coding GIF](URL_TO_GIF)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_hrishi_.05/?hl=en) 
