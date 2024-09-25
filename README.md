@@ -1,5 +1,6 @@
 # 💫 About Me:
 🎓 I am currently pursuing a degree in Computer Science at St. Joseph's College of Engineering, Palai.<br>💻 I am gaining hands-on experience in computer technologies.<br>💡 I have a passion for programming and enjoy solving complex problems through code.<br>🎮 In my free time, I also love playing games.
+![0_dwphVK2bqwimw9Ht](https://github.com/user-attachments/assets/4b3c9860-20cd-413b-9ea2-2e2afa0d5ce6)
 
 
 ## 🌐 Socials:
