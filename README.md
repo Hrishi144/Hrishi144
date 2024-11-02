@@ -21,5 +21,5 @@
 [![](https://visitcount.itsvg.in/api?id=hrishi144&icon=6&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![Animation - 1730550120874](https://github.com/user-attachments/assets/4182c849-f370-4742-889b-3fd4a553c59a)
+
 
