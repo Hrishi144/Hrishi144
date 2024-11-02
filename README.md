@@ -2,6 +2,7 @@
 🎓 I am currently pursuing a degree in Computer Science at St. Joseph's College of Engineering, Palai.<br>💻 I am gaining hands-on experience in computer technologies.<br>💡 I have a passion for programming and enjoy solving complex problems through code.<br>🎮 In my free time, I also love playing games.
 
 ![2024-11-02-Hello-World-From-HrishiCote](https://github.com/user-attachments/assets/611e3481-8044-4ee2-bbf6-07069c323c65)
+![Animation - 1730550444622 (1)](https://github.com/user-attachments/assets/55c50e22-8149-4339-99f3-b8be52e5833d)
 
 
 
