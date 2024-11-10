@@ -16,6 +16,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hrishi144&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+
+![Animation - 1731255647319](https://github.com/user-attachments/assets/351559c2-c6bf-4983-b66b-3b9659374536)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=hrishi144&icon=2&color=1)](https://visitcount.itsvg.in)
 
