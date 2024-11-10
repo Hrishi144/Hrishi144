@@ -1,4 +1,4 @@
-# 💫 About Me:[![](https://visitcount.itsvg.in/api?id=hrishi144&icon=2&color=1)](https://visitcount.itsvg.in)
+# 💫 About Me:  [![](https://visitcount.itsvg.in/api?id=hrishi144&icon=2&color=1)](https://visitcount.itsvg.in)
 🎓 I am currently pursuing a degree in Computer Science at St. Joseph's College of Engineering, Palai.<br>💻 I am gaining hands-on experience in computer technologies.<br>💡 I have a passion for programming and enjoy solving complex problems through code.<br>🎮 In my free time, I also love playing games.<br><br>
 
 
