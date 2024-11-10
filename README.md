@@ -1,6 +1,8 @@
 # 💫 About Me: 
 🎓 I am currently pursuing a degree in Computer Science at St. Joseph's College of Engineering, Palai.<br>💻 I am gaining hands-on experience in computer technologies.<br>💡 I have a passion for programming and enjoy solving complex problems through code.<br>🎮 In my free time, I also love playing games.<br><br>
 
+![2024-11-02-Hello-World-From-HrishiCote](https://github.com/user-attachments/assets/611e3481-8044-4ee2-bbf6-07069c323c65)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_hrishi_.05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ok_Upstairs7097) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HRISHIKESH.D) 
 
