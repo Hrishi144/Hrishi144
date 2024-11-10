@@ -23,5 +23,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=hrishi144&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ok_Upstairs7097) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HRISHIKESH.D) 
+
 
