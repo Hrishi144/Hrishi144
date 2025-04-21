@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm hrishicote</h1>
+
+![2024-11-02-Hello-From-HrishiCote](https://github.com/user-attachments/assets/611e3481-8044-4ee2-bbf6-07069c323c65)
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrishi144&label=Profile%20views&color=0e75b6&style=flat" alt="hrishi144" /> </p>
